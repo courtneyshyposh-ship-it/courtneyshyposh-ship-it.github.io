@@ -1,613 +1,970 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Courtney Shyposh | Marketing Portfolio</title>
-
-    <meta name="description" content="Courtney Shyposh - Marketing student at Fairfield University with experience in social media, market research, content creation, and digital marketing.">
-
-    <link rel="stylesheet" href="style.css">
-
-    <!-- Google Font -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
-</head>
-
-<body>
-
-    <!-- Navigation -->
-    <header class="navbar">
-        <div class="nav-container">
-
-            <a href="#home" class="logo">
-                CS<span>.</span>
-            </a>
-
-            <nav id="nav-menu">
-                <a href="#about">About</a>
-                <a href="#experience">Experience</a>
-                <a href="#projects">Projects</a>
-                <a href="#skills">Skills</a>
-                <a href="#contact">Contact</a>
-            </nav>
-
-            <button class="menu-toggle" id="menu-toggle">
-                ☰
-            </button>
-
-        </div>
-    </header>
-
-
-    <!-- Hero Section -->
-    <section id="home" class="hero">
-
-        <div class="hero-content">
-
-            <p class="eyebrow">MARKETING • CREATIVITY • STRATEGY</p>
-
-            <h1>
-                Hi, I'm <span>Courtney.</span>
-            </h1>
-
-            <h2>
-                Marketing student creating ideas that connect brands with people.
-            </h2>
-
-            <p class="hero-description">
-                I'm a Marketing student at Fairfield University with hands-on experience
-                in social media management, market research, content creation, and
-                digital marketing.
-            </p>
-
-            <div class="hero-buttons">
-                <a href="#projects" class="btn primary-btn">
-                    View My Work
-                </a>
-
-                <a href="#contact" class="btn secondary-btn">
-                    Let's Connect
-                </a>
-            </div>
-
-        </div>
-
-        <div class="hero-graphic">
-
-            <div class="circle circle-one"></div>
-            <div class="circle circle-two"></div>
-
-            <div class="graphic-card">
-                <p>Currently studying</p>
-                <h3>Marketing</h3>
-                <span>Fairfield University</span>
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- About -->
-    <section id="about" class="section">
-
-        <div class="section-heading">
-            <p class="eyebrow">01 — ABOUT ME</p>
-            <h2>A marketer with a creative mindset.</h2>
-        </div>
-
-        <div class="about-grid">
-
-            <div class="about-text">
-
-                <p>
-                    I'm Courtney Shyposh, a Marketing student at Fairfield University
-                    pursuing a Bachelor of Science in Marketing. I enjoy combining
-                    creativity, research, and strategy to develop marketing ideas
-                    that are both visually engaging and meaningful.
-                </p>
-
-                <p>
-                    My experience includes managing social media platforms, developing
-                    a clothing campaign, conducting market analysis, creating digital
-                    content, and working directly with audiences. I'm especially
-                    interested in social media marketing, consumer behavior,
-                    sustainable finance, and brand strategy.
-                </p>
-
-                <div class="about-details">
-
-                    <div>
-                        <span>University</span>
-                        <strong>Fairfield University</strong>
-                    </div>
-
-                    <div>
-                        <span>Major</span>
-                        <strong>Marketing</strong>
-                    </div>
-
-                    <div>
-                        <span>Graduation</span>
-                        <strong>May 2027</strong>
-                    </div>
-
-                    <div>
-                        <span>GPA</span>
-                        <strong>3.3</strong>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="about-card">
-
-                <div class="quote-mark">“</div>
-
-                <p>
-                    Creativity gets attention. Strategy makes it matter.
-                </p>
-
-                <span>— Courtney Shyposh</span>
-
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- Education -->
-    <section class="education-section">
-
-        <div class="education-card">
-
-            <div>
-                <p class="eyebrow">EDUCATION</p>
-                <h2>Fairfield University</h2>
-                <p>Bachelor of Science in Marketing</p>
-            </div>
-
-            <div class="education-right">
-                <strong>Expected May 2027</strong>
-                <span>GPA: 3.3</span>
-            </div>
-
-        </div>
-
-        <div class="coursework">
-
-            <span>Principles of Marketing</span>
-            <span>Consumer Behavior</span>
-            <span>Marketing Research</span>
-            <span>Digital Art</span>
-            <span>Business Analytics</span>
-            <span>Social Media Marketing</span>
-            <span>Advertising</span>
-
-        </div>
-
-    </section>
-
-
-    <!-- Experience -->
-    <section id="experience" class="section">
-
-        <div class="section-heading">
-            <p class="eyebrow">02 — EXPERIENCE</p>
-            <h2>What I've been working on.</h2>
-        </div>
-
-        <div class="experience-list">
-
-            <!-- Experience 1 -->
-            <article class="experience-item">
-
-                <div class="experience-date">
-                    10/2023 — PRESENT
-                </div>
-
-                <div class="experience-content">
-
-                    <h3>Clothing Campaign</h3>
-
-                    <h4>Breathe at Ease</h4>
-
-                    <p>
-                        Developed and managed a clothing campaign centered around
-                        comfort, mindfulness, and community.
-                    </p>
-
-                    <ul>
-                        <li>
-                            Designed and launched apparel through Bonfire.
-                        </li>
-
-                        <li>
-                            Managed product design, pricing, and launch strategy.
-                        </li>
-
-                        <li>
-                            Created engaging Instagram and TikTok content.
-                        </li>
-
-                        <li>
-                            Engaged directly with followers to build community
-                            and customer loyalty.
-                        </li>
-                    </ul>
-
-                    <div class="tags">
-                        <span>Social Media</span>
-                        <span>Branding</span>
-                        <span>Content Creation</span>
-                        <span>Bonfire</span>
-                        <span>Instagram</span>
-                        <span>TikTok</span>
-                    </div>
-
-                    <a
-                        href="https://www.bonfire.com/breathe-at-ease/?utm_source=copy_link&utm_medium=campaign_page&utm_campaign=breathe-at-ease&utm_content=default"
-                        target="_blank"
-                        class="project-link"
-                    >
-                        View Campaign →
-                    </a>
-
-                </div>
-
-            </article>
-
-
-            <!-- Experience 2 -->
-            <article class="experience-item">
-
-                <div class="experience-date">
-                    12/2024
-                </div>
-
-                <div class="experience-content">
-
-                    <h3>Market Analysis</h3>
-
-                    <h4>Romanacci's Craft Bar & Kitchen</h4>
-
-                    <p>
-                        Created a market analysis and marketing plan designed
-                        around the restaurant's target audiences.
-                    </p>
-
-                    <ul>
-                        <li>
-                            Analyzed performance metrics using Google Analytics.
-                        </li>
-
-                        <li>
-                            Researched audience segments and consumer behavior.
-                        </li>
-
-                        <li>
-                            Developed a targeted marketing plan.
-                        </li>
-
-                        <li>
-                            Created visually engaging graphics using Canva.
-                        </li>
-
-                    </ul>
-
-                    <div class="tags">
-                        <span>Market Research</span>
-                        <span>Google Analytics</span>
-                        <span>Canva</span>
-                        <span>Marketing Strategy</span>
-                    </div>
-
-                </div>
-
-            </article>
-
-
-            <!-- Experience 3 -->
-            <article class="experience-item">
-
-                <div class="experience-date">
-                    06/2021 — 08/2023
-                </div>
-
-                <div class="experience-content">
-
-                    <h3>Summer Camp Counselor</h3>
-
-                    <h4>Jockey Hollow — Mendham, NJ</h4>
-
-                    <p>
-                        Supervised and mentored groups of 10–15 campers while
-                        developing activities focused on creativity, collaboration,
-                        and teamwork.
-                    </p>
-
-                    <ul>
-
-                        <li>
-                            Supervised groups of 10–15 campers daily.
-                        </li>
-
-                        <li>
-                            Planned and led recreational and educational activities.
-                        </li>
-
-                        <li>
-                            Communicated regularly with parents and staff.
-                        </li>
-
-                        <li>
-                            Helped create a safe and inclusive environment.
-                        </li>
-
-                    </ul>
-
-                    <div class="tags">
-                        <span>Leadership</span>
-                        <span>Communication</span>
-                        <span>Teamwork</span>
-                        <span>Creativity</span>
-                    </div>
-
-                </div>
-
-            </article>
-
-        </div>
-
-    </section>
-
-
-    <!-- Projects -->
-    <section id="projects" class="section projects-section">
-
-        <div class="section-heading">
-            <p class="eyebrow">03 — PROJECTS</p>
-            <h2>A few things I've created.</h2>
-        </div>
-
-        <div class="project-grid">
-
-            <!-- Project Card -->
-            <article class="project-card">
-
-                <div class="project-number">01</div>
-
-                <div class="project-card-content">
-
-                    <p class="project-category">
-                        BRANDING + SOCIAL MEDIA
-                    </p>
-
-                    <h3>Breathe at Ease</h3>
-
-                    <p>
-                        A clothing campaign focused on comfort, mindfulness,
-                        and creating an online community.
-                    </p>
-
-                    <div class="tags">
-                        <span>Bonfire</span>
-                        <span>Instagram</span>
-                        <span>TikTok</span>
-                    </div>
-
-                    <a
-                        href="https://www.bonfire.com/breathe-at-ease/?utm_source=copy_link&utm_medium=campaign_page&utm_campaign=breathe-at-ease&utm_content=default"
-                        target="_blank"
-                        class="project-link"
-                    >
-                        Explore Project →
-                    </a>
-
-                </div>
-
-            </article>
-
-
-            <!-- Project Card -->
-            <article class="project-card">
-
-                <div class="project-number">02</div>
-
-                <div class="project-card-content">
-
-                    <p class="project-category">
-                        MARKET RESEARCH
-                    </p>
-
-                    <h3>Romanacci's Market Analysis</h3>
-
-                    <p>
-                        A marketing analysis examining audience segments,
-                        performance metrics, and opportunities for growth.
-                    </p>
-
-                    <div class="tags">
-                        <span>Market Research</span>
-                        <span>Google Analytics</span>
-                        <span>Canva</span>
-                    </div>
-
-                </div>
-
-            </article>
-
-
-            <!-- Project Card -->
-            <article class="project-card">
-
-                <div class="project-number">03</div>
-
-                <div class="project-card-content">
-
-                    <p class="project-category">
-                        DATA + BUSINESS
-                    </p>
-
-                    <h3>Business Analytics</h3>
-
-                    <p>
-                        Academic experience applying analytical tools and
-                        business concepts to marketing and consumer insights.
-                    </p>
-
-                    <div class="tags">
-                        <span>Excel</span>
-                        <span>FactSet</span>
-                        <span>Tableau</span>
-                    </div>
-
-                </div>
-
-            </article>
-
-        </div>
-
-    </section>
-
-
-    <!-- Skills -->
-    <section id="skills" class="section skills-section">
-
-        <div class="section-heading">
-            <p class="eyebrow">04 — SKILLS</p>
-            <h2>Tools & interests.</h2>
-        </div>
-
-        <div class="skills-grid">
-
-            <div class="skill-box">
-                <span class="skill-icon">01</span>
-                <h3>Marketing</h3>
-                <p>
-                    Social Media Marketing, Market Research,
-                    Consumer Behavior, Advertising
-                </p>
-            </div>
-
-            <div class="skill-box">
-                <span class="skill-icon">02</span>
-                <h3>Creative</h3>
-                <p>
-                    Content Creation, Graphic Design,
-                    Video Editing, Digital Art
-                </p>
-            </div>
-
-            <div class="skill-box">
-                <span class="skill-icon">03</span>
-                <h3>Analytics</h3>
-                <p>
-                    Excel, Google Analytics, Tableau,
-                    FactSet, Business Analytics
-                </p>
-            </div>
-
-            <div class="skill-box">
-                <span class="skill-icon">04</span>
-                <h3>Professional</h3>
-                <p>
-                    Communication, Leadership,
-                    Teamwork, Microsoft Office
-                </p>
-            </div>
-
-        </div>
-
-
-        <div class="interests">
-
-            <p class="eyebrow">INTERESTS</p>
-
-            <div class="interest-list">
-
-                <span>Sustainable Finance</span>
-                <span>Running</span>
-                <span>Social Media</span>
-                <span>Brand Strategy</span>
-                <span>Consumer Psychology</span>
-                <span>Content Creation</span>
-
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- Contact -->
-    <section id="contact" class="contact-section">
-
-        <div class="contact-content">
-
-            <p class="eyebrow">05 — LET'S CONNECT</p>
-
-            <h2>
-                Have an opportunity?
-                <span>Let's talk.</span>
-            </h2>
-
-            <p>
-                I'm always interested in connecting with people in marketing,
-                business, and creative industries.
-            </p>
-
-            <a
-                href="mailto:cshyposh@gmail.com"
-                class="contact-email"
-            >
-                cshyposh@gmail.com
-            </a>
-
-            <div class="social-links">
-
-                <a
-                    href="https://www.linkedin.com/in/courtney-shyposh"
-                    target="_blank"
-                >
-                    LinkedIn ↗
-                </a>
-
-                <a href="mailto:cshyposh@gmail.com">
-                    Email ↗
-                </a>
-
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- Footer -->
-    <footer>
-
-        <div class="footer-content">
-
-            <p>
-                © <span id="year"></span> Courtney Shyposh
-            </p>
-
-            <p>
-                Marketing • Fairfield University
-            </p>
-
-        </div>
-
-    </footer>
-
-
-    <script src="script.js"></script>
-
-</body>
-</html>
+/* ==========================================================
+   Courtney Shyposh — portfolio styles
+   Palette pulled from her "Breathe at Ease" campaign idea:
+   calm pine and lilac, with one warm marigold highlight.
+   ========================================================== */
+
+:root {
+  --paper: #F4F5EF;
+  --paper-2: #E8EBE1;
+  --pine: #1D3B36;
+  --pine-2: #2C524B;
+  --lilac: #C9BDF2;
+  --marigold: #F2C94C;
+  --ink: #19211F;
+  --muted: #56625E;
+  --line: #CDD3C7;
+
+  --font: "Bricolage Grotesque", "Segoe UI", system-ui, -apple-system, sans-serif;
+
+  --step--1: 0.875rem;
+  --step-0: 1.0625rem;
+  --step-1: 1.3rem;
+  --step-2: 1.75rem;
+  --step-3: clamp(2rem, 4.5vw, 3rem);
+  --step-4: clamp(3.5rem, 12vw, 9.5rem);
+
+  --gutter: clamp(1.25rem, 5vw, 4rem);
+
+  --max: 1180px;
+  --nav-h: 72px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: var(--nav-h);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  font-size: var(--step-0);
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--paper);
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+a {
+  color: inherit;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+:focus-visible {
+  outline: 3px solid var(--marigold);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -3rem;
+  padding: 0.5rem 1rem;
+  background: var(--pine);
+  color: var(--paper);
+  z-index: 100;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+
+/* ---------- Navigation ---------- */
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(244, 245, 239, 0.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s;
+}
+
+.navbar.is-scrolled {
+  border-bottom-color: var(--line);
+}
+
+.nav-container {
+  max-width: var(--max);
+  height: var(--nav-h);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-weight: 800;
+  font-size: 1.35rem;
+  text-decoration: none;
+  color: var(--pine);
+  letter-spacing: -0.02em;
+}
+
+#nav-menu {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+#nav-menu a {
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--muted);
+  position: relative;
+  padding: 0.25rem 0;
+}
+
+#nav-menu a:hover,
+#nav-menu a.is-active {
+  color: var(--pine);
+}
+
+#nav-menu a.is-active::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 2px;
+  background: var(--pine);
+}
+
+#nav-menu a.nav-cta {
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  background: var(--pine);
+  color: var(--paper);
+}
+
+#nav-menu a.nav-cta::after {
+  display: none;
+}
+
+#nav-menu a.nav-cta:hover {
+  background: var(--pine-2);
+  color: var(--paper);
+}
+
+.menu-toggle {
+  display: none;
+  width: 44px;
+  height: 44px;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  position: relative;
+}
+
+.menu-toggle-bar {
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  height: 2px;
+  background: var(--pine);
+  transition: transform 0.25s, top 0.25s;
+}
+
+.menu-toggle-bar:nth-child(1) {
+  top: 17px;
+}
+
+.menu-toggle-bar:nth-child(2) {
+  top: 25px;
+}
+
+.menu-toggle[aria-expanded="true"] .menu-toggle-bar:nth-child(1) {
+  top: 21px;
+  transform: rotate(45deg);
+}
+
+.menu-toggle[aria-expanded="true"] .menu-toggle-bar:nth-child(2) {
+  top: 21px;
+  transform: rotate(-45deg);
+}
+
+
+/* ---------- Hero ---------- */
+
+.hero {
+  position: relative;
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: clamp(3rem, 8vw, 6rem) var(--gutter) clamp(4rem, 10vw, 8rem);
+  min-height: calc(100svh - var(--nav-h));
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-intro {
+  font-size: var(--step-1);
+  color: var(--muted);
+  margin-bottom: 0.25rem;
+}
+
+.hero-name {
+  font-size: var(--step-4);
+  font-weight: 800;
+  font-variation-settings: "wdth" 80;
+  letter-spacing: -0.045em;
+  line-height: 0.88;
+  color: var(--pine);
+  margin-bottom: 2rem;
+}
+
+.hero-name span {
+  display: block;
+}
+
+.hero-name span:last-child {
+  padding-left: 0.6em;
+}
+
+.hero-lede {
+  max-width: 34ch;
+  font-size: var(--step-1);
+  line-height: 1.45;
+  margin-bottom: 2rem;
+}
+
+.hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.85rem 1.5rem;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none;
+  border: 2px solid var(--pine);
+  transition: background 0.2s, color 0.2s;
+}
+
+.btn-primary {
+  background: var(--pine);
+  color: var(--paper);
+}
+
+.btn-primary:hover {
+  background: var(--pine-2);
+  border-color: var(--pine-2);
+}
+
+.btn-ghost {
+  color: var(--pine);
+}
+
+.btn-ghost:hover {
+  background: var(--pine);
+  color: var(--paper);
+}
+
+
+/* The breathing orb: the one moving thing on the page.
+   One cycle = 4s in, 4s out, like a slow breath. */
+
+.breath {
+  position: absolute;
+  right: calc(var(--gutter) * -0.5);
+  top: 50%;
+  width: min(56vw, 560px);
+  aspect-ratio: 1;
+  transform: translateY(-50%);
+  display: grid;
+  place-items: center;
+  z-index: 1;
+}
+
+.breath-orb,
+.breath-ring {
+  grid-area: 1 / 1;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.breath-orb {
+  background:
+    radial-gradient(
+      circle at 50% 50%,
+      var(--marigold) 0 18%,
+      transparent 46%
+    ),
+    radial-gradient(
+      circle at 50% 50%,
+      var(--lilac) 0 58%,
+      transparent 70%
+    );
+
+  animation: breathe 4s ease-in-out infinite alternate;
+}
+
+.breath-ring {
+  border: 1.5px solid var(--pine);
+  opacity: 0.25;
+  animation: ring 4s ease-in-out infinite alternate;
+}
+
+.breath-cue {
+  grid-area: 1 / 1;
+  margin: 0;
+  font-weight: 600;
+  color: var(--pine);
+  font-size: var(--step--1);
+  letter-spacing: 0.04em;
+  transition: opacity 0.6s;
+}
+
+@keyframes breathe {
+  from {
+    transform: scale(0.72);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes ring {
+  from {
+    transform: scale(0.82);
+    opacity: 0.35;
+  }
+
+  to {
+    transform: scale(1.06);
+    opacity: 0.12;
+  }
+}
+
+
+/* ---------- Shared section styles ---------- */
+
+.section {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: clamp(4rem, 9vw, 7rem) var(--gutter);
+}
+
+.section-title {
+  font-size: var(--step-3);
+  letter-spacing: -0.03em;
+  color: var(--pine);
+  max-width: 18ch;
+  margin-bottom: 2.5rem;
+}
+
+.pill-list,
+.tag-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pill-list li {
+  padding: 0.45rem 1rem;
+  border: 1.5px solid var(--pine);
+  border-radius: 999px;
+  font-weight: 500;
+  color: var(--pine);
+}
+
+.tag-list li {
+  font-size: var(--step--1);
+  padding: 0.25rem 0.7rem;
+  border-radius: 6px;
+  background: var(--paper-2);
+  color: var(--pine);
+}
+
+.text-link {
+  display: inline-block;
+  font-weight: 600;
+  color: var(--pine);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+  text-decoration-color: var(--marigold);
+}
+
+.text-link:hover {
+  text-decoration-color: currentColor;
+}
+
+
+/* ---------- About ---------- */
+
+.about {
+  border-top: 1px solid var(--line);
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: clamp(2rem, 6vw, 5rem);
+  align-items: end;
+}
+
+.about-text p {
+  max-width: 60ch;
+  color: var(--ink);
+}
+
+.about-quote {
+  margin: 0;
+}
+
+.about-quote blockquote {
+  margin: 0;
+  padding: 2rem 0 0.5rem 1.5rem;
+  border-left: 4px solid var(--lilac);
+  font-size: var(--step-2);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--pine);
+}
+
+.facts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 4rem 0 3rem;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.facts div {
+  padding: 1.25rem 1rem 1.25rem 0;
+}
+
+.facts div + div {
+  padding-left: 1.25rem;
+  border-left: 1px solid var(--line);
+}
+
+.facts dt {
+  font-size: var(--step--1);
+  color: var(--muted);
+}
+
+.facts dd {
+  margin: 0.2rem 0 0;
+  font-size: var(--step-1);
+  font-weight: 600;
+  color: var(--pine);
+}
+
+.coursework h3,
+.interests h3 {
+  font-size: var(--step-0);
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+
+/* ---------- Experience timeline ---------- */
+
+.experience {
+  background: var(--paper);
+}
+
+.timeline {
+  list-style: none;
+  position: relative;
+  border-left: 2px solid var(--line);
+  margin-left: 0.5rem;
+}
+
+.timeline-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 12rem 1fr;
+  gap: 2rem;
+  padding: 0 0 3rem 2rem;
+}
+
+.timeline-item:last-child {
+  padding-bottom: 0;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -8px;
+  top: 0.45rem;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 3px solid var(--pine);
+}
+
+.timeline-item:first-child::before {
+  background: var(--marigold);
+}
+
+.timeline-date {
+  font-weight: 600;
+  color: var(--muted);
+  padding-top: 0.15rem;
+}
+
+.timeline-body h3 {
+  font-size: var(--step-2);
+  letter-spacing: -0.02em;
+  color: var(--pine);
+}
+
+.timeline-org {
+  font-weight: 600;
+  color: var(--pine-2);
+  margin: 0.35rem 0 0.75rem;
+}
+
+.timeline-body > p:not(.timeline-org) {
+  max-width: 58ch;
+}
+
+.details-toggle {
+  font: inherit;
+  font-weight: 600;
+  font-size: var(--step--1);
+  color: var(--pine);
+  background: none;
+  border: 1.5px solid var(--line);
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  cursor: pointer;
+}
+
+.details-toggle:hover {
+  border-color: var(--pine);
+}
+
+.details {
+  padding-top: 1.25rem;
+  animation: open 0.3s ease-out;
+}
+
+.details > ul:first-child {
+  padding-left: 1.2rem;
+  margin-bottom: 1rem;
+  max-width: 58ch;
+}
+
+.details > ul:first-child li {
+  margin-bottom: 0.35rem;
+}
+
+.details > ul:first-child li::marker {
+  color: var(--lilac);
+}
+
+@keyframes open {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+
+/* ---------- Projects ---------- */
+
+.project-feature {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  background: var(--pine);
+  color: var(--paper);
+  border-radius: 24px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+}
+
+.project-feature-art {
+  padding: clamp(2rem, 5vw, 3.5rem);
+  background: var(--lilac);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 320px;
+}
+
+.project-feature-art span {
+  display: block;
+  font-size: clamp(3rem, 8vw, 6rem);
+  font-weight: 800;
+  font-variation-settings: "wdth" 75;
+  line-height: 0.85;
+  letter-spacing: -0.04em;
+  color: var(--pine);
+}
+
+.project-feature-art span:last-child {
+  color: var(--paper);
+}
+
+.project-feature-text {
+  padding: clamp(2rem, 5vw, 3.5rem);
+  align-self: center;
+}
+
+.project-feature-text h3 {
+  font-size: var(--step-3);
+  letter-spacing: -0.03em;
+  margin-bottom: 1rem;
+}
+
+.project-feature-text p {
+  color: #DCE3DE;
+  max-width: 44ch;
+}
+
+.project-feature-text .project-kind {
+  color: var(--marigold);
+}
+
+.project-feature-text .text-link {
+  color: var(--paper);
+}
+
+.project-kind {
+  font-size: var(--step--1);
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.project-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.project {
+  padding: clamp(1.5rem, 4vw, 2.5rem);
+  border: 1.5px solid var(--line);
+  border-radius: 24px;
+}
+
+.project h3 {
+  font-size: var(--step-2);
+  letter-spacing: -0.02em;
+  color: var(--pine);
+  margin-bottom: 0.75rem;
+}
+
+
+/* ---------- Skills ---------- */
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-top: 2px solid var(--pine);
+  margin-bottom: 3.5rem;
+}
+
+.skill-group {
+  padding: 1.5rem 1.5rem 0 0;
+}
+
+.skill-group + .skill-group {
+  padding-left: 1.5rem;
+  border-left: 1px solid var(--line);
+}
+
+.skill-group h3 {
+  font-size: var(--step-1);
+  color: var(--pine);
+  margin-bottom: 0.6rem;
+}
+
+.skill-group p {
+  color: var(--muted);
+  margin: 0;
+}
+
+
+/* ---------- Contact ---------- */
+
+.contact {
+  background: var(--pine);
+  color: var(--paper);
+  padding: clamp(5rem, 10vw, 8rem) var(--gutter);
+}
+
+.contact-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+}
+
+.contact h2 {
+  font-size: var(--step-3);
+  letter-spacing: -0.03em;
+  max-width: 16ch;
+  margin-bottom: 1.25rem;
+}
+
+.contact p {
+  color: #DCE3DE;
+  max-width: 48ch;
+}
+
+.email-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  margin: 2.5rem 0 2rem;
+}
+
+.contact-email {
+  font-size: clamp(1.6rem, 5vw, 3.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--lilac);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.contact-email:hover {
+  color: var(--marigold);
+}
+
+.copy-btn {
+  font: inherit;
+  font-weight: 600;
+  font-size: var(--step--1);
+  padding: 0.55rem 1.1rem;
+  border-radius: 999px;
+  border: 1.5px solid var(--lilac);
+  background: transparent;
+  color: var(--paper);
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  background: var(--lilac);
+  color: var(--pine);
+}
+
+.copy-status {
+  font-size: var(--step--1);
+  color: var(--marigold);
+}
+
+.text-link-light {
+  color: var(--paper);
+}
+
+
+/* ---------- Footer ---------- */
+
+.footer {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 2rem var(--gutter);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: var(--step--1);
+  color: var(--muted);
+}
+
+.footer p {
+  margin: 0;
+}
+
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 900px) {
+
+  .about-grid,
+  .project-feature,
+  .project-pair {
+    grid-template-columns: 1fr;
+  }
+
+  .facts,
+  .skills-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .facts div:nth-child(3) {
+    padding-left: 0;
+    border-left: 0;
+    border-top: 1px solid var(--line);
+  }
+
+  .facts div:nth-child(4) {
+    border-top: 1px solid var(--line);
+  }
+
+  .skill-group:nth-child(3) {
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  .skill-group {
+    padding-bottom: 1.5rem;
+  }
+
+  .timeline-item {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+
+  .project-feature-art {
+    min-height: 220px;
+  }
+
+  .breath {
+    width: 80vw;
+    right: -30vw;
+    opacity: 0.8;
+  }
+}
+
+
+@media (max-width: 720px) {
+
+  .menu-toggle {
+    display: block;
+  }
+
+  #nav-menu {
+    position: absolute;
+    top: var(--nav-h);
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+    padding: 0.5rem var(--gutter) 1.5rem;
+    background: var(--paper);
+    border-bottom: 1px solid var(--line);
+    display: none;
+  }
+
+  #nav-menu.is-open {
+    display: flex;
+  }
+
+  #nav-menu a {
+    width: 100%;
+    padding: 0.85rem 0;
+    font-size: var(--step-1);
+  }
+
+  #nav-menu a.is-active::after {
+    display: none;
+  }
+
+  #nav-menu a.nav-cta {
+    width: auto;
+    margin-top: 0.75rem;
+    padding: 0.6rem 1.4rem;
+  }
+
+  .hero-name span:last-child {
+    padding-left: 0;
+  }
+}
+
+
+@media (max-width: 480px) {
+
+  .facts,
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .facts div,
+  .facts div + div,
+  .skill-group,
+  .skill-group + .skill-group {
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  .facts div + div {
+    border-top: 1px solid var(--line);
+  }
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+
+  html {
+    scroll-behavior: auto;
+  }
+
+  .breath-orb,
+  .breath-ring,
+  .details {
+    animation: none;
+  }
+
+  .breath-cue {
+    display: none;
+  }
+}
